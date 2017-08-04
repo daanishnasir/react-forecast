@@ -17,7 +17,7 @@ componentDidMount() {
 
     render() {
       return (
-          return <div ref="map" />
+         <div ref="map" />
       )
     }
   }
